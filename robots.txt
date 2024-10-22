@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://inehueje.github.io/EqC/sitemap_index.txt.gz
+Sitemap: https://inehueje.github.io/Gib/sitemap_index.txt.gz
+Sitemap: https://inehueje.github.io/LrS/sitemap_index.txt.gz
+Sitemap: https://inehueje.github.io/eCi/sitemap_index.txt.gz
+Sitemap: https://inehueje.github.io/uKH/sitemap_index.txt.gz
